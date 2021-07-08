@@ -1,0 +1,40 @@
+PS D:\NEULARK STUDIO MASTER\1 Three JS\0 vs vode projects\NN_todolist_practice> npm start
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path D:\NEULARK STUDIO MASTER\1 Three JS\0 vs vode projects\NN_todolist_practice\package.json
+npm ERR! errno -4058
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\neula\AppData\Roaming\npm-cache\_logs\2021-07-08T04_23_39_767Z-debug.log
+PS D:\NEULARK STUDIO MASTER\1 Three JS\0 vs vode projects\NN_todolist_practice> npm start
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path D:\NEULARK STUDIO MASTER\1 Three JS\0 vs vode projects\NN_todolist_practice\package.json
+npm ERR! errno -4058
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\neula\AppData\Roaming\npm-cache\_logs\2021-07-08T04_25_43_531Z-debug.log
+PS D:\NEULARK STUDIO MASTER\1 Three JS\0 vs vode projects\NN_todolist_practice> npm start
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path D:\NEULARK STUDIO MASTER\1 Three JS\0 vs vode projects\NN_todolist_practice\package.json
+npm ERR! errno -4058
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\neula\AppData\Roaming\npm-cache\_logs\2021-07-08T04_27_20_133Z-debug.log
+PS D:\NEULARK STUDIO MASTER\1 Three JS\0 vs vode projects\NN_todolist_practice> npm-install-missing
+npm-install-missing : The term 'npm-install-missing' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the 
+name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ npm-install-missing
++ ~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (npm-install-missing:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS D:\NEULARK STUDIO MASTER\1 Three JS\0 vs vode projects\NN_todolist_practice>
